@@ -1,7 +1,4 @@
-# hello-world
-some edits 1
-some edits 2
-some edits 3
-some deletes and adds 1
-some deletes and adds 2
-some deletes and adds 3
+this is a brief description of the project and the files in the repository
+deleted text
+deleted text
+deleted text
