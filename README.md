@@ -1,5 +1,4 @@
-# hello-world
-my first repository
-some edits 1
-some edits 2
-some edits 3
+this is a brief description of the project and the files in the repository
+deleted text
+deleted text
+deleted text
